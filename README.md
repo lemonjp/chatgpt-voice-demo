@@ -26,4 +26,4 @@ pip install -r requirements.txt
 python3 web.py
 ```
 
-and go to `http://127.0.0.1:7860`
+then go to `http://127.0.0.1:7860`
