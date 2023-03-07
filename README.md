@@ -1,7 +1,4 @@
-# chatgpt-api-whisper-api-voice-assistant
-chatgpt api and whisper api tutorial - voice conversation with therapist
-
-Video Demo / Tutorial:
+# chatgpt-voice-demo
 
 https://www.youtube.com/watch?v=Si0vFx_dJ5Y
 
